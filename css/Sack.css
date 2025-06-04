@@ -1,0 +1,9 @@
+#vehicles{
+    display: flex;
+}
+.lorem{
+    margin: 35px;
+}
+.ipsum{
+    font-style: unset;
+}
